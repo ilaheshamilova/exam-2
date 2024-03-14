@@ -1,0 +1,84 @@
+.all-div{
+    display: flex;
+    gap: 15px;
+}
+.card-1 {
+    border-radius: 15px;
+    background-color: rgb(150, 58, 180);
+    background: linear-gradient(90deg, rgba(150, 58, 180, 1) 17%, rgba(29, 210, 253, 1) 78%, rgba(235, 69, 252, 1) 100%);
+    ;
+}
+
+h6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    border-radius: 40px;
+}
+
+.card-2 {
+    border-radius: 15px;
+    background: rgb(180, 58, 169);
+    background: linear-gradient(90deg, rgba(180, 58, 169, 1) 17%, rgba(255, 218, 113, 1) 78%, rgba(245, 255, 0, 1) 100%);
+
+}
+
+p {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-2{
+    border-radius: 40px;
+ 
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-3 {
+    background: rgb(73, 47, 164);
+    background: linear-gradient(90deg, rgba(73, 47, 164, 1) 17%, rgba(118, 238, 255, 1) 58%, rgba(182, 219, 99, 1) 100%);
+}
+
+.card-title-3 {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+}
+.btn-3{
+    border-radius: 15px;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
